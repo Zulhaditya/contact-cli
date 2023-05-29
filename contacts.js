@@ -43,7 +43,7 @@ const saveContact = (name, email, phone) => {
   }
 
   // check phone numbers
-  if (!validator.isMobilePhone(phone, 'id-ID')) {
+  if (!validator.isMobilePhone(phone)) {
     console.log(chalk.red.inverse('Invalid phone numbers!'));
     return false;
   }
