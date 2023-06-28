@@ -20,9 +20,9 @@
 
 ## Dependencies
 
-- **chalk**: version 4.1.0
-- **validator**: version 13.5.2
-- **yargs**: version 17.7.2
+- **chalk** - version 4.1.0
+- **validator** - version 13.5.2
+- **yargs** - version 17.7.2
 
 ## Features
 
