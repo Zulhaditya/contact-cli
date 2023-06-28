@@ -20,16 +20,16 @@
 
 ## Dependencies
 
-- chalk : 4.1.0
-- validator : 13.5.2
-- yargs: 17.7.2
+- chalk: version 4.1.0
+- validator: version 13.5.2
+- yargs: version 17.7.2
 
 ## Features
 
-- :heavy_plus_sign: **Add** contacts by filling the name, e-mail and phone number.
-- :no_entry: **Delete** contacts by names.
-- :bookmark_tabs: **Display** a list of contacts.
-- :books: **Save** contacts to JSON.
+- **Add** contacts by filling the name, e-mail and phone number.
+- **Delete** contacts by names.
+- **Display** a list of contacts.
+- **Save** contacts to JSON.
 
 ## Screenshots
 
@@ -70,4 +70,4 @@ Project is: _complete._ <!-- / _complete_ / _no longer being worked on_. reason 
 
 ## Contact
 
-Created by [@Zulhaditya](https://itsmyportofolio.netlify.app/) - feel free to contribute in this repo!
+Created by [@Zulhaditya](https://itsmyportofolio.netlify.app/) - feel free to contribute in this repository!
